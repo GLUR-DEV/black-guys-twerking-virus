@@ -8,9 +8,9 @@ GLUR
 * `Mp3 playback`
 * `Mp4 playback`
 * `Computer softlock`
-* `~~Automated Browser~~`
-* `~~Wallpaper Changer~~`
-* `~~Random msg boxes~~`
+* ~~Automated Browser~~
+* ~~Wallpaper Changer~~
+* ~~Random msg boxes~~
 
 ### TODO
 * Figure out a good way to implement cut features
