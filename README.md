@@ -12,8 +12,7 @@ GLUR
 * `Random msg boxes`
 
 ### TODO
-* Figure out a good way to implement cut features
-* Delete unused payload libs
+* Nothing to do
 
 ### Compiling Program
 Your victims won't need any of the requirements to run the compiled virus. Just you will need these requirements to compile the exe.
